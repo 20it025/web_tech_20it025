@@ -1,0 +1,62 @@
+body{
+  margin: 0;
+  font-family: monospace;
+  font-weight: 600;
+  word-spacing: inherit;
+
+
+}
+
+a:hover{
+  color: #086E7D;
+
+}
+
+a{
+  text-decoration-line: none;
+}
+
+.profile{
+  align="center";
+  background-color: #086E7D;
+  color: #F6D7A7;
+  width: auto;
+  height: 350px;
+  margin-bottom: 0;
+}
+
+img{
+  padding-top: 20px;
+  border-radius: 250px;
+}
+
+.content{
+  background-color: #FFE3E3;
+  height: 1000px;
+  width: auto;
+  margin-top: 0;
+  padding-top: 30px;
+  padding-left: 100px;
+}
+.pro{
+  position: relative;
+  font-family: monospace;
+
+
+}
+.education{
+  position: relative;
+  left: 800px;
+  padding-right: 500px;
+}
+
+.skills{
+  position: relative;
+  left: 800px;
+
+}
+
+.contact{
+
+
+}

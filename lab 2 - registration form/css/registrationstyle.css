@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  background-color: #F2789F;
+  font-family: sans-serif;
+
+
+}
+
+.heading{
+  background-color: #FFCBCB;
+  color: #8946A6;
+  padding-top: 20px;
+  padding-bottom: 10px;
+
+}
+
+.details{
+  background-color: #FFCDDD;
+  line-height: 2;
+
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+
+}
